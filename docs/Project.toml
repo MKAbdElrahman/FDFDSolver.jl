@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+FDFDSolver = "bb1df0a6-0f12-490a-bbba-47f16288a0bf"
